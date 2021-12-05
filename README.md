@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harsh-Uppal
-- 👀 I’m interested in Gaming, Game development, Machine Learning, Deep Learing and AI
+- 👀 I’m interested in Game development, Machine Learning, Web Designing
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on creating games and some applications
-- 📫 mail me at my GMail ID harshuppal14122008@gmail.com
+- 💞️ I’m looking to collaborate on creating games
+- 📫 mail me at my Gmail ID harshuppal14122008@gmail.com
