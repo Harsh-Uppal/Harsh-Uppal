@@ -2,3 +2,4 @@
 - 👀 I’m interested in Game development, Machine Learning, Web Designing
 - 🌱 I’m currently learning Haskell
 - 📫 Mail me at my Gmail ID frailnite@gmail.com
+- 🌟 Check out my Codewars Account: https://www.codewars.com/users/FrailNite
