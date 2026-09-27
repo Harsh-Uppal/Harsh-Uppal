@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Harsh-Uppal
 - 👀 I’m interested in Game development, Machine Learning, Web Designing
 - 🌱 I’m currently learning Haskell
-- 📫 Mail me at my Gmail ID harshuppal14122008@gmail.com / frailnite@gamail.com
+- 📫 Mail me at my Gmail ID frailnite@gmail.com
